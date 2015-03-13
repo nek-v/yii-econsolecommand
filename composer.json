@@ -1,0 +1,11 @@
+{
+    "name": "nek-v/yii-econsolecommand",
+    "description": "EConsoleCommand makes Yii console commands more interactive and user friendly",
+    "authors": [
+        {
+            "name": "nek",
+            "email": "nek@srez.org"
+        }
+    ],
+    "require": {}
+}
