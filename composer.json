@@ -1,6 +1,7 @@
 {
     "name": "nek-v/yii-econsolecommand",
     "description": "EConsoleCommand makes Yii console commands more interactive and user friendly",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "nek",
